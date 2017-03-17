@@ -39,6 +39,8 @@ Potential Ways to Change Sessions:
 * coal miners programming
 * debate
 
+| specific questions that are timeboxed |
+
 https://www.bloomberg.com/news/articles/2016-02-03/from-coal-to-coding-appalachian-miners-getting-a-fresh-start
 
 ## Session Improvements 30 min: 
