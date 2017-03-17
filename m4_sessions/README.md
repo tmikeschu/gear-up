@@ -34,6 +34,12 @@ Potential Ways to Change Sessions:
 | - | - |
 | poll for people who love the topic and have resources to share | read , reflec, video, discussion |
 
+* survey
+* gather different articles
+* coal miners programming
+* debate
+
+https://www.bloomberg.com/news/articles/2016-02-03/from-coal-to-coding-appalachian-miners-getting-a-fresh-start
 
 ## Session Improvements 30 min: 
 Determine the changes that you want to make in the session and divide the work between your group.  Use this time to get started on those changes.
