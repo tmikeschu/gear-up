@@ -30,6 +30,11 @@ Potential Ways to Change Sessions:
 	* What questions should students answer?<br>
 	* What order should things happen in?  Read--video--reflect?  Group discussion--video--reflect?
 
+| Send survey to see who is pro/anti automation | have some discussion in homogenous groups, then some in heterogenous groups |
+| - | - |
+| poll for people who love the topic and have resources to share | read , reflec, video, discussion |
+
+
 ## Session Improvements 30 min: 
 Determine the changes that you want to make in the session and divide the work between your group.  Use this time to get started on those changes.
 
